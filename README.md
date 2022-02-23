@@ -13,6 +13,8 @@ When the user moves the mouse over the cells, they change its color to a random 
 After that, if the mouse is over again, the color becomes darker and darker until it becomes black.
 
 There is the option to reset the grid and stablish the number of cells, the values allowed are between 1 and 100.
+## Live Demo
+[Demo](https://vicperalta.github.io/etch-sketch/)
 
 ### Sample image
 ![](./sample.png?raw=true "Sample")
